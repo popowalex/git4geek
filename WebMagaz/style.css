@@ -1,0 +1,46 @@
+body {
+	background-color: #f8f8f8;
+
+}
+
+.menu {
+	font-family: Arial;
+	font-style: italic;
+	font-size: 14px;
+	list-style-type: none; /* Убрал маркеры списка */
+
+}
+
+/* Смена стиля характеристик, описаний товара и т.п. */
+.zag {
+	color: black;
+	font-size: 18px;
+	font-weight: 400;
+	background-color: #eaeaea; 
+}
+
+
+/* Красткое описание товара*/
+.shortdesc {
+	color: #707070;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 16px;
+}
+
+
+/* Длинное описание товара*/
+.longdescr {
+	color: #484343;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	text-align: left;
+}
+
+.shortfirst {
+	color: red;
+	font-size: 14px;
+
+
+}
